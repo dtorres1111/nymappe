@@ -1,0 +1,19 @@
+{
+  "name": "@dtorres1984/nymappe",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtorres1111/nymappe.git"
+  },
+  "author": "Daniel Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtorres1111/nymappe/issues"
+  },
+  "homepage": "https://github.com/dtorres1111/nymappe#readme"
+}
